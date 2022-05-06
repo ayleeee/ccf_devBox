@@ -1,0 +1,11 @@
+.search_res{
+    width: 40rem;
+    border: 1px solid rgb(168, 0, 0);
+    padding: 8px 12px;
+    margin-bottom: 1cm;
+    font-family: 'Noto Serif KR', serif;
+}
+
+*{
+    font-family: 'Noto Serif KR', serif;
+}
